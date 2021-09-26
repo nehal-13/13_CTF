@@ -1,0 +1,62 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.hacking-animation {
+  background: black;
+  color: #eee;
+  height: 100%;
+}
+.hacking-animation__text {
+  bottom: 0;
+  font-family: "Share Tech Mono", monospace;
+  color: #eee;
+  font-size: 18px;
+  left: 0;
+  line-height: 1.5rem;
+  padding: 3rem;
+  position: absolute;
+  right: 0;
+}
+.hacking-animation__character {
+  animation: type 1.5s linear;
+  color: #0cb406;
+}
+
+@keyframes type {
+  0% {
+    background: #fff;
+    color: #eee;
+  }
+  5% {
+    background: transparent;
+    color: #fff;
+  }
+  100% {
+    background: transparent;
+    color: #0cb406;
+  }
+}
+#line {
+  border: none;
+  height: 1px;
+  color: wheat; /* old IE */
+  background-color: wheat;
+  width: 100px;
+  /* margin: auto; */
+}
+footer {
+  position: fixed;
+  height: 60px;
+  background-color: black;
+  color: #0cb406;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  text-align: center;
+  margin-bottom: 0px;
+  padding-bottom: 4px;
+}
