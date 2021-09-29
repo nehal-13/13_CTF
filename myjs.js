@@ -120,14 +120,15 @@ Calculating Space Requirements
 ://Starting Burp Suite..
             (**ACCESS GRANTED**)....
                     message for victim="I'm inside! HaHa so easy Lol ! Im Braille .                   
-                    I heard that this shitty comptn is givng 25k as prize money,                         
+                    I heard that this shitty comptn is givng 9k as prize money,                         
                     so i came here, to refill my wallet by hacking all tasks .. you can go home now
                     XD haHa..                                                                                 
                     ...                                                                                      
                     ..                                                                                        
                     Ok ok don't be sad,I want to give you guys a chance to back me off...                  
-                    I am placing a KEY in a Cubical Box.Find it nd i'll leave you guys...                     
-                    But how will you n I trust each other??                                                            
+                    I am placing a KEY in a Cubical Box.Find it nd i'll leave you guys... 
+                    and if not you guys will leave..
+                    But how will you n I trust each other ??                                                            
                     Let's create a immutable contract which will let the game to be fair                           
 
                     .
@@ -135,6 +136,7 @@ Calculating Space Requirements
     // Starting Contract Maker....                                                                       
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                                                                          
     Name of Contract - 'CTFcontract'
+    Subject - "The one who loose will leave."
     writing Application Binary Interface..                                                                          
     [
     {
@@ -153,11 +155,11 @@ Calculating Space Requirements
       "type": "function"
     }
    ]
-   ~~~~~~~~~~~~~~
+   ~~~~~~~~~~~~~~~~~
    //deploying to hacked server....
    network ID: 4
    Pausing for 2 confirmations...
-   ------------------------------
+   -------------------------------------
    > confirmation number: 1 (box_: 9360799)
    > confirmation number: 2 (box_: 9360800)
    > Saving artifacts
@@ -171,12 +173,12 @@ Calculating Space Requirements
    .
    .
    .
-                    Ooops I mistakenly placed this contract in the same box...                            
+                    Ooops I mistakenly connected this contract with box...                            
                     Hahaha... now seems like there is no chance to get rid of me...                                   
                     Have fun kids :D                                              
 
 //STOP CALLING Victim                                             
-############################################
+################################################
 
 //Disconnecting .....
     Shutting Burp Suite..
