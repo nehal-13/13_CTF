@@ -120,7 +120,7 @@ Calculating Space Requirements
 ://Starting Burp Suite..
             (**ACCESS GRANTED**)....
                     message for victim="I'm inside! HaHa so easy Lol ! Im Braille .                   
-                    I heard that this shitty comptn is givng 9k as prize money,                         
+                    I heard that this shitty competition is givng 9k as prize money,                         
                     so i came here, to refill my wallet by hacking all tasks .. you can go home now
                     XD haHa..                                                                                 
                     ...                                                                                      
